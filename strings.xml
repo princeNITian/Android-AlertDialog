@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Usamp7</string>
+    <string name="dialog_message">Welcome to LearnByExample.In</string>
+    <string name="dialog_title">LearnByExample Alert Dialog</string>
+</resources>
